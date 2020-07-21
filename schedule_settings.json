@@ -1,0 +1,8 @@
+{
+    "TEST_COUNT" :1,
+    "TESTER_CYCLE" :20,
+    "GETTER_CYCLE" :20,
+    "TESTER_ENABLE" :"True",
+    "GETTER_ENABLE" :"False",
+    "API_ENABLE" :"False"
+}

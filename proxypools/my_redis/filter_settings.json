@@ -1,0 +1,17 @@
+{
+    "TIMEOUT" :8,
+    "INITIAL" :10,
+    "MAX" :100,
+    "MIN" :0,
+    "THRESHOLD" :1000,
+    "test_urls": [
+        {"url" :"https://ip.ihuan.me/ti.html"}
+    ],
+    "HOST" :"localhost",
+    "PASSWORD" :"None",
+    "DB" :3,
+    "PORT" :6379,
+    "KEY" :"proxies",
+    "VALID_CODE" :200,
+    "BATCH_TEST_SIZE" :100
+}
